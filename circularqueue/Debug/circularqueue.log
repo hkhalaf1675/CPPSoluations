@@ -1,0 +1,4 @@
+﻿  circularqueue.cpp
+E:\Education\CPP\circularqueue\circularqueue.cpp(33): warning C4715: 'circularQueue<char>::getFront': not all control paths return a value
+E:\Education\CPP\circularqueue\circularqueue.cpp(39): warning C4715: 'circularQueue<char>::getRear': not all control paths return a value
+  circularqueue.vcxproj -> E:\Education\CPP\circularqueue\Debug\circularqueue.exe
